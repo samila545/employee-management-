@@ -1,3 +1,5 @@
+// it is datastructure single linked list by using c++ language
+
 #include<cstring>
 #include <iostream>
 #include <stdlib.h>
